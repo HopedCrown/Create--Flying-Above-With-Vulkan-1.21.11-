@@ -1,6 +1,0 @@
-# Git should Ignore mods and saves
-
-.minecraft/saves/
-.minecraft/mods/
-.minecraft/.gitignore
-.minecraft/.fabric/
