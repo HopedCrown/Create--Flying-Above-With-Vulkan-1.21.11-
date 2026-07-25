@@ -1,0 +1,18 @@
+filename = 'jei-1.21.11-fabric-27.17.0.52.jar'
+name = 'Just Enough Items (JEI)'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '27.17.0.52'
+
+[download]
+hash = '5deca9c749e28536b56dba2d02f4922c90c655557bd0df75f03e0a1d962071ee3a6ca67f3b9b4fc5d03c4d4e035503122ba68db1217ae19b238818a8fce56793'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/u6dRKJwZ/versions/dArxNpTe/jei-1.21.11-fabric-27.17.0.52.jar'
+
+[update.modrinth]
+mod-id = 'u6dRKJwZ'
+version = 'dArxNpTe'

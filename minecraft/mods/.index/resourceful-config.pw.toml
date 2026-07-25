@@ -1,0 +1,18 @@
+filename = 'ResourcefulConfig-fabric-1.21.11-3.11.3.jar'
+name = 'Resourceful Config'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.11.3'
+
+[download]
+hash = 'c09556d4673f91953a14d719c5522380ec0756177f3f79cdbcabf2d5dda18eb400d22bed09aef784f15fbd3953f2be69ce6e1b65ac99ac36c461cbd2e50ca67d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M1953qlQ/versions/8bR7M6K7/ResourcefulConfig-fabric-1.21.11-3.11.3.jar'
+
+[update.modrinth]
+mod-id = 'M1953qlQ'
+version = '8bR7M6K7'

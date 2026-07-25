@@ -1,0 +1,21 @@
+filename = 'craft_config-1.1.12+1.21.11-fabric.jar'
+name = 'Craft Config Lib'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.12+1.21.11-fabric'
+
+[download]
+hash = 'f28a5a5cde66851d4c20ab9fb0a3da8f24b100d96383994a05e1fc077a8916a790fe51c739ae1595bd6870a91a290bdc10a52236843fda85731e240d589a54b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pqvUbuK1/versions/OD5PhZeG/craft_config-1.1.12%2B1.21.11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'pqvUbuK1'
+version = 'OD5PhZeG'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

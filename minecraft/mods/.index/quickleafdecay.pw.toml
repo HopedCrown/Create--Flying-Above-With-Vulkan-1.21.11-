@@ -1,0 +1,21 @@
+filename = 'quickleafdecay-mc1.21.11-0.4.1.jar'
+name = 'Quick Leaf Decay'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.1'
+
+[download]
+hash = '9b52582540ed1771507f3d864bc4f033074b7e58e66a02807ccdcd3bbb4c35e567b68e1666ae4446990a0f1b8460a37c3e7a40a2ade8e667b95814aafaf6992e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3Puj7Mln/versions/jyMshFoi/quickleafdecay-mc1.21.11-0.4.1.jar'
+
+[update.modrinth]
+mod-id = '3Puj7Mln'
+version = 'jyMshFoi'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

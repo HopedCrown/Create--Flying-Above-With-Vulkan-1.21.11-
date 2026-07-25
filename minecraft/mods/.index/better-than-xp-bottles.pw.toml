@@ -1,0 +1,25 @@
+filename = 'bottleyourxp-1.0-SNAPSHOT.jar'
+name = 'Better Than XP Bottles'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = '61c4b2f1fe3aae9830a49c0b6275d598afbfaa02fbe6ce87605b0fcd0e1ee14651e771a2e5ff1fe411db04637733c6d3456bb447d1d51d7c2601909f8ecc7930'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DejBjSiL/versions/NGUMvYMM/bottleyourxp-1.0-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'DejBjSiL'
+version = 'NGUMvYMM'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
