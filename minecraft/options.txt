@@ -16,7 +16,6 @@ glintStrength:0.75
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:1.0
 guiScale:2
 maxAnisotropyBit:1
 textureFiltering:0
@@ -103,7 +102,7 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:2
-startedCleanly:true
+startedCleanly:false
 musicToast:"never"
 musicFrequency:"DEFAULT"
 key_key.attack:key.mouse.left
@@ -170,6 +169,7 @@ key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_justzoom.keybinds.keybind.zoom:key.keyboard.z
+key_beryl.keybind.toggle:key.keyboard.r
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
@@ -243,11 +243,10 @@ key_key.jei.nextCategory:key.keyboard.unknown
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_Fullbright:key.keyboard.g
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.presencefootsteps.debug_toggle:key.keyboard.z
-key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
-key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
